@@ -1,0 +1,8 @@
+com\hanselnpetal\data\repos\CustomerContactRepositoryDbUnitTest.class
+com\hanselnpetal\DatastoreSystemsHealthTest.class
+com\hanselnpetal\ContinuousIntegrationTestSuite.class
+com\hanselnpetal\controller\ContactsManagementControllerIntegrationTest.class
+com\hanselnpetal\service\ContactsManagementServiceIntegrationTest.class
+com\hanselnpetal\AddContactFeatureTestSuite.class
+com\hanselnpetal\data\repos\CustomerContactRepositoryIntegrationTest.class
+com\hanselnpetal\service\ContactsManagementServiceUnitTest.class

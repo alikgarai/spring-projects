@@ -1,0 +1,10 @@
+com\hanselnpetal\domain\Order.class
+com\hanselnpetal\service\ContactsManagementService.class
+com\hanselnpetal\domain\CustomerContact.class
+com\hanselnpetal\domain\Customer.class
+com\hanselnpetal\domain\DeliveryAddress.class
+com\hanselnpetal\domain\BillingAddress.class
+com\hanselnpetal\data\repos\CustomerContactRepository.class
+com\hanselnpetal\domain\ContactImportantOccasion.class
+com\hanselnpetal\Application.class
+com\hanselnpetal\controller\ContactsManagementController.class

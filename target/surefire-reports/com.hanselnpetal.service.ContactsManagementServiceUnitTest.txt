@@ -1,0 +1,9 @@
+-------------------------------------------------------------------------------
+Test set: com.hanselnpetal.service.ContactsManagementServiceUnitTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0 sec <<< FAILURE! - in com.hanselnpetal.service.ContactsManagementServiceUnitTest
+testAddContactHappyPath(com.hanselnpetal.service.ContactsManagementServiceUnitTest)  Time elapsed: 0 sec  <<< ERROR!
+java.lang.NullPointerException: Cannot invoke "com.hanselnpetal.domain.CustomerContact.getFirstName()" because "aContact" is null
+	at com.hanselnpetal.service.ContactsManagementService.add(ContactsManagementService.java:19)
+	at com.hanselnpetal.service.ContactsManagementServiceUnitTest.testAddContactHappyPath(ContactsManagementServiceUnitTest.java:47)
+
